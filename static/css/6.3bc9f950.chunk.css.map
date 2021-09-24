@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Styles/Dashboard.css"],"names":[],"mappings":"AAAA,mBACI,sCAA+B,CAA/B,8BACJ","file":"6.3bc9f950.chunk.css","sourcesContent":[".dashboard-griding{\r\n    grid-template-rows: min-content;\r\n}"]}
