@@ -1,0 +1,24 @@
+.bg-img {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(138, 138, 138, 0.9)), url("./../Public/Images/thumbnail-effect-png-effects-for-photoshop-png-transparent-images-png-all-5.png");
+    background-size: cover;
+}
+
+.bg-transparency-color {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.mouse-pointer {
+    cursor: pointer !important;
+}
+
+.login-card-background {
+    background-image: linear-gradient(rgba(182, 182, 182, 0.95), rgba(232, 232, 232, 0.95)), url("./../Public/Images/neural_network.png");
+    background-size: cover;
+}
+
+.poster-img {
+    background-image: url("./../Public/Images/AI-Ransbotham-Speed-Artificial-Intelligence-1200.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+}
