@@ -92,8 +92,8 @@ const Login = () => {
 
     return <>
         <Grid container={true} justifyContent="center" className="h-100">
-            <Grid item={true} className="d-flex flex-column justify-content-center">
-                <Card className="border px-5 h-75 d-grid login-card-background">
+            <Grid item={true} className="d-flex flex-column justify-content-center py-5">
+                <Card className="border px-5 h-100 d-grid login-card-background">
                     <CardHeader
                         title="Login To System"
                         subheader="System Name"
